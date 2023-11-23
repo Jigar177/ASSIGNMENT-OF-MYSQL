@@ -1,0 +1,5 @@
+flight_id,flight_date,departure_city,arrival_city,duration,passenger_id
+1,2023-10-23,"Rostov "," Moscow  ",02:30:20,101
+2,2023-11-24," Moscow  ","Rostov ",03:15:50,102
+3,2023-08-25,"Rostov "," Moscow  ",02:45:10,103
+4,2023-07-26," Moscow  ","Rostov ",03:00:05,104
